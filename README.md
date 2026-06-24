@@ -47,12 +47,11 @@
   <a href="https://github.com/joaomendesmendes/aprandendo-python-do-zero">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
   </a>
-  <a href=">
+  <a href="https://github.com/joaomendesmendes/projeto">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
   </a>
 </p>
-> Aprendendo-python-do-zero
-> Projeto
+> Aprendendo-python-do-zero/projeto
  
 ---
  
