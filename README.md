@@ -44,10 +44,10 @@
  ### 📌 Projetos em destaque
  
 <p align="center">
-  <a href="https://github.com/joaomendesmendes/REPOSITORIO_1">
+  <a href="https://github.com/joaomendesmendes/aprandendo-python-do-zero">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
   </a>
-  <a href="https://github.com/joaomendesmendes/REPOSITORIO_2">
+  <a href=">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
   </a>
 </p>
