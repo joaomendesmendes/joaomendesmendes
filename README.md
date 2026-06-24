@@ -5,14 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=joaomendesmendes&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=2F81F7&style=flat" alt="Visitor Badge"/>
   <img src="https://img.shields.io/github/followers/joaomendesmendes?label=Seguidores&style=social" alt="Followers"/>
 </p>
----
  
 ### 👨‍💻 Sobre mim
  
-- Atualmente trabalhando em **UM NAVEGADOR**
-- Estudando **JAVA**
-- Como me encontrar: **JOAOMENDESMENDES29@GMAIL.COM**
-- Fato curioso sobre mim: **SOU APAIXONADO EM TEATRO E AUDIOVISUAL**
+- Atualmente trabalhando em uma criação de um navegador
+- Estudando Java
+- Como me encontrar: joaomendesmendes@29gmail.com
+- hobby: Teatro e AudioVisual
 ---
  
 ### 🛠️ Tecnologias & Ferramentas
