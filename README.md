@@ -45,10 +45,10 @@
  
 <p align="center">
   <a href="https://github.com/joaomendesmendes/aprandendo-python-do-zero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="aprandendo-python-do-zero"/>
   </a>
   <a href="https://github.com/joaomendesmendes/projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="projeto"/>
   </a>
 </p>
 > Aprendendo-python-do-zero/projeto
