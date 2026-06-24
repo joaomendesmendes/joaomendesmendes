@@ -9,11 +9,10 @@
  
 ### 👨‍💻 Sobre mim
  
-- 🔭 Atualmente trabalhando em **[nome do projeto atual]**
-- 🌱 Estudando **[tecnologia que está aprendendo]**
-- 💬 Pergunte-me sobre **[seus temas de domínio]**
-- 📫 Como me encontrar: **[seu e-mail]**
-- ⚡ Fun fact: **[algo curioso sobre você]**
+- Atualmente trabalhando em **UM NAVEGADOR**
+- Estudando **JAVA**
+- Como me encontrar: **JOAOMENDESMENDES29@GMAIL.COM**
+- Fato curioso sobre mim: **SOU APAIXONADO EM TEATRO E AUDIOVISUAL**
 ---
  
 ### 🛠️ Tecnologias & Ferramentas
@@ -42,14 +41,8 @@
 </p>
 ---
  
-### 🏆 Troféus
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaomendesmendes&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies"/>
-</p>
----
- 
-### 📌 Projetos em destaque
+
+ ### 📌 Projetos em destaque
  
 <p align="center">
   <a href="https://github.com/joaomendesmendes/REPOSITORIO_1">
@@ -59,20 +52,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomendesmendes&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
   </a>
 </p>
-> ⚠️ Troque `REPOSITORIO_1` e `REPOSITORIO_2` pelos nomes reais dos seus repositórios para os cards aparecerem.
+> Aprendendo-python-do-zero
+> Projeto
  
 ---
  
 ### 🌐 Redes & Contato
  
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-delgado-mendes/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+   <a href="MeuEmail:joaomendesmendes29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
